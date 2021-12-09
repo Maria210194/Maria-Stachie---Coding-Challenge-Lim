@@ -1,0 +1,72 @@
+body{
+  background-image: url(backgroun.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.opacity{
+  background-color: rgb(19, 12, 22, 0.5);
+  width: 3250px;
+  height: 2500px;
+  margin: auto;
+  margin-top: 250px;
+  border-radius: 3%;
+}
+
+.Conteiner{
+  width: 80%;
+  margin: auto;
+  display: inline-block;
+}
+
+.logo{
+  display:block;
+  width: 30%;
+  margin-top: 100px;
+  margin-left: 1300px;
+}
+
+.Intestazione{
+  width: 100%;
+  font-size: 110px;
+  font-family: "Times New Roman", Arial, sans-serif;
+  color: #7FFF00;
+  text-align: center;
+  margin: auto;
+  margin-left: 350px;
+  padding: 8px;
+}
+
+
+.Box{
+  width: 3000px;
+  height: 90px;
+  padding: 8px;
+  margin: auto;
+  margin-left: 100px;
+  background-color: #7FFF00;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.botton{
+  width: 350px;
+  height: 40px;
+  font-size: 30px;
+  margin: 8px;
+  font-family: "Times New Roman";
+}
+
+
+main{
+  display: inline-block;
+  width: 2500px;
+  height: 2000px;
+  margin-left: 5%;
+  padding: 1%;
+  font-size: 55px;
+  font-family: Optima, sans-serif;
+  color: white;
+}
